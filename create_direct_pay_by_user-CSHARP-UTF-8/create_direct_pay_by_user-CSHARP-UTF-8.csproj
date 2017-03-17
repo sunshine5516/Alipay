@@ -123,6 +123,7 @@
     <Compile Include="app_code\AlipaySubmit.cs" />
     <Compile Include="app_code\AlipayConfig.cs" />
     <Compile Include="app_code\MD5.cs" />
+    <Compile Include="Class1.cs" />
     <Compile Include="default.aspx.cs">
       <DependentUpon>default.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
